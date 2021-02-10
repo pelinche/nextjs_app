@@ -10,7 +10,6 @@ function Home() {
       <div>Teste </div>
       <div>Teste </div>
       <div>Teste </div>
-      <div>Teste </div>
     </div>
   );
 }
