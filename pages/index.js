@@ -6,6 +6,11 @@ function Home() {
       <h1>Home1x</h1>
       <Contador />
       <div>Teste </div>
+      <div>Teste </div>
+      <div>Teste </div>
+      <div>Teste </div>
+      <div>Teste </div>
+      <div>Teste </div>
     </div>
   );
 }
